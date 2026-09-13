@@ -1,5 +1,5 @@
 # CSHS
-A Cyber security text game. More updates will come soon.
+A Cybersecurity text game. More updates will come soon.
 
 Currently you can:
 - Hack 2 distinct networks
